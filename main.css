@@ -3,7 +3,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-family: "DotGothic16", sans-serif;
-  --theme-color-1: #f50;
+  --theme-color-1: #05f;
   --theme-color-2: #fc3;
   color: #454545;
 }
@@ -111,7 +111,6 @@ ul li::before {
   left: 0.5em;
   top: 0.4em;
   font-size: 75%;
-  font-family: "Font Awesome 6 Free";
   font-weight: bold;
   content: "\f816";
 }
