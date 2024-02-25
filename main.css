@@ -103,6 +103,8 @@ ul li {
   padding: 0 0 0 1.6em;
   margin: 0;
   text-indent: 0.5em;
+  font-size: 125%;
+  color: var(--theme-color-1);
 }
 
 ul li::before {
